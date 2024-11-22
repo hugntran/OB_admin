@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/OB_admin/static/css/main.b18f09db.css",
-    "main.js": "/OB_admin/static/js/main.1b5115ff.js",
-    "static/js/453.eac224b4.chunk.js": "/OB_admin/static/js/453.eac224b4.chunk.js",
-    "static/media/ibankinglg.png": "/OB_admin/static/media/ibankinglg.bba8479d1f4b0b78634d.png",
-    "index.html": "/OB_admin/index.html",
-    "main.b18f09db.css.map": "/OB_admin/static/css/main.b18f09db.css.map",
-    "main.1b5115ff.js.map": "/OB_admin/static/js/main.1b5115ff.js.map",
-    "453.eac224b4.chunk.js.map": "/OB_admin/static/js/453.eac224b4.chunk.js.map"
+    "main.css": "/adminOB/static/css/main.b18f09db.css",
+    "main.js": "/adminOB/static/js/main.b691916b.js",
+    "static/js/453.eac224b4.chunk.js": "/adminOB/static/js/453.eac224b4.chunk.js",
+    "static/media/ibankinglg.png": "/adminOB/static/media/ibankinglg.bba8479d1f4b0b78634d.png",
+    "index.html": "/adminOB/index.html",
+    "main.b18f09db.css.map": "/adminOB/static/css/main.b18f09db.css.map",
+    "main.b691916b.js.map": "/adminOB/static/js/main.b691916b.js.map",
+    "453.eac224b4.chunk.js.map": "/adminOB/static/js/453.eac224b4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b18f09db.css",
-    "static/js/main.1b5115ff.js"
+    "static/js/main.b691916b.js"
   ]
 }
